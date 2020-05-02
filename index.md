@@ -6,10 +6,27 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Course Content
 
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [1. Introduction to Computing with Python:](#heading)
+  * [Setting up your work environment:](#sub-heading)
+    + [Interactive shell](#sub-sub-heading)
+    + [Jupyter Notebooks](#sub-sub-heading)
+    + [Version control with Git](#sub-sub-heading)
+  * [Data Types:](#sub-heading)
+    + [Numbers](#sub-sub-heading)
+    + [Strings](#sub-sub-heading)
+    + [Variables](#sub-sub-heading)
+    + [Lists](#sub-sub-heading)
+    + [Operations on lists](#sub-sub-heading)
+    + [Boolean expressions](#sub-sub-heading)
+    + [Arrays](#sub-sub-heading)
+    + [Tuples](#sub-sub-heading)
+    + [Dictionaries](#sub-sub-heading)
+  * [Data Types:](#sub-heading)
+  * [Data Types:](#sub-heading)
+  * [Data Types:](#sub-heading)
+   
+    
+- [Vectors, Matrices, and Multidimensional Arrays](#heading-1)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
