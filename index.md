@@ -1,6 +1,6 @@
 ## Numerical Techniques and Statistical Modelling with Python
 
-(https://github.com/ssahu-oceans/Numerical-Techniques-and-Statistical-Modelling-with-Python/edit/master/index.md)
+[comment]: <> (https://github.com/ssahu-oceans/Numerical-Techniques-and-Statistical-Modelling-with-Python/edit/master/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
