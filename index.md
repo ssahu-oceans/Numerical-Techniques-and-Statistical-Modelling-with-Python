@@ -1,15 +1,20 @@
-## Welcome to GitHub Pages
+## Numerical Techniques and Statistical Modelling with Python
 
-You can use the [editor on GitHub](https://github.com/ssahu-oceans/Numerical-Techniques-and-Statistical-Modelling-with-Python/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+(https://github.com/ssahu-oceans/Numerical-Techniques-and-Statistical-Modelling-with-Python/edit/master/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Course Content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+- [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-2)
+    + [Sub-sub-heading](#sub-sub-heading-2)
 
 # Header 1
 ## Header 2
